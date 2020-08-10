@@ -38,3 +38,7 @@ Requests the objectData/appObjects from webAppServer
     webAppClient.requestSubAdminList()
 Requests the subAdmin list of the application from webAppServer
 * Returns an Array (of subAdmins)
+
+### Architecture Diagram
+
+![TEDxKanke-Architecture.png](util/TEDxKanke-Architecture.png)
